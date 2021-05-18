@@ -1,0 +1,15 @@
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/bin/Debug/net5.0/SignIn.deps.json
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/bin/Debug/net5.0/SignIn.runtimeconfig.json
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/bin/Debug/net5.0/SignIn.runtimeconfig.dev.json
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/bin/Debug/net5.0/SignIn.dll
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/bin/Debug/net5.0/ref/SignIn.dll
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/bin/Debug/net5.0/SignIn.pdb
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/SignIn.csprojAssemblyReference.cache
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/SignIn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/SignIn.AssemblyInfoInputs.cache
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/SignIn.AssemblyInfo.cs
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/SignIn.csproj.CoreCompileInputs.cache
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/SignIn.dll
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/ref/SignIn.dll
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/SignIn.pdb
+/Users/q90/Desktop/BCW/Week_10/2-Tuesday/SignIn/obj/Debug/net5.0/SignIn.genruntimeconfig.cache
